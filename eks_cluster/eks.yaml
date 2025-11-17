@@ -8,3 +8,4 @@ managedNodeGroups:
     instanceTypes: ["m5.large" , "c3.large", "c5.large", "c4.large"]
     desiredCapacity: 3
     spot: true
+#reference: https://github.com/eksctl-io/eksctl/blob/main/examples/45-upgrade-policy-example.yaml
